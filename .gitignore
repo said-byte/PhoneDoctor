@@ -1,0 +1,17 @@
+# toolchain качается отдельно (build.bat/download_toolchain.bat), в git не нужен
+.toolchain/
+
+# сборочные артефакты
+app/build/
+.gradle/
+build/
+
+# локальные пути SDK
+local.properties
+
+# IDE
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/

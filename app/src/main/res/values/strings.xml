@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phone Doctor</string>
+    <string name="a11y_label">Phone Doctor: автозапуск</string>
+    <string name="a11y_description">Включает автозапуск и фоновую активность в настройках ColorOS. Без этого служба бесполезна — приложение ничего не делает само по себе.</string>
+</resources>
